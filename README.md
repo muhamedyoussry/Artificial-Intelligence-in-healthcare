@@ -5,7 +5,7 @@ Artificial intelligence in healthcare is an overarching term used to describe th
 
 This would be a Markdown for AI in Healthcare to provide all the information related to this topic from different courses and specialization:
 
-1. [AI in Healthcare Specialization](https://www.coursera.org/specializations/ai-healthcare) - [Markdown](AI%20in%20Healthcare%20Specialization/AI%20in%20Healthcare%20Specialization.md)
+1. [AI in Healthcare Specialization](https://www.coursera.org/specializations/ai-healthcare) - [Markdown](AI%20in%20Healthcare%20Specialization/README.md)
    
 2. [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)
 
