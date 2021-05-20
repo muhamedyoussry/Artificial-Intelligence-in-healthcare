@@ -11,7 +11,7 @@ This specialization is designed for both healthcare providers and computer scien
 <h2 align ="center"> There are 5 Courses in this Specialization
 </h2>
 
-1. [Introduction to Healthcare](https://www.coursera.org/learn/intro-to-healthcare?specialization=ai-healthcare) - [Markdwon]
+1. [Introduction to Healthcare](https://www.coursera.org/learn/intro-to-healthcare?specialization=ai-healthcare) - [Markdwon](Introduction%20to%20Healthcare/Introduction%20to%20Healthcare.md)
 
 
 --- 
